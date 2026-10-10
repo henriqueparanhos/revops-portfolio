@@ -1,0 +1,41 @@
+# Secrets and credentials (never commit)
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Data (keep only small synthetic samples under Datasets/)
+*.parquet
+*.db
+*.sqlite
+Datasets/raw/
+Datasets/private/
+
+# Power BI local state
+.pbi/
+*.pbix.bak
+**/localSettings.json
+
+# n8n local state
+.n8n/
+
+# Logs and temp
+*.log
+*.tmp
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
