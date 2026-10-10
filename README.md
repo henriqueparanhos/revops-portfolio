@@ -14,7 +14,7 @@ I am a commercial professional with a background in B2B key account management a
 - **Target markets:** North America, Europe
 - **Languages:** Portuguese (native), English
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) · [GitHub](https://github.com/henriqueparanhos)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/-henriqueparanhos/) · [GitHub](https://github.com/henriqueparanhos)
 
 ---
 
